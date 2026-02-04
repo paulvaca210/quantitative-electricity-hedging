@@ -6,3 +6,6 @@ On veut montrer que la couverture long terme coupler par des ajustements sur le 
 
 On met plus l'accent sur la modélisation quantitative et l'analyse de risque que sur l'exécution de la stratégie de trading (cela justifie les hyptohèses de liquidité parfaite/absence de market impact/Bid-ask spread négligé)
 
+Modelisation du prix :
+Les prix sont discrets et évoluent par sauts. Ils ne suivent pas un processus de diffusion.
+On modelise les prix par un processus discret. On se fixe une granularité de 1h.
